@@ -19,3 +19,19 @@
 
 ## Connect With Me
 Welcome to my GitHub profile
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+**Bold Text**
+
+*Italic Text*
+
+- Item 1
+- Item 2
+
+1. First
+2. Second
+
+[My GitHub](https://github.com/_helterskelter)
