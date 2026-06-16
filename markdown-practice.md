@@ -6,7 +6,7 @@ This semester, I want to master **web development**, stay *consistent* with my s
 You can view my projects on my [GitHub Profile](https://github.com/helter-skelter254) or search for help on [W3Schools](https://https://www.w3schools.com/).
 
 ### Things I want to learn:
-- Next-generation sequencing analysis
+- Backend and frontend development 
 - Advanced Python scripting
 - Data visualization
 
