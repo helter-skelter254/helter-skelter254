@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Helter Skelter 👋
 
-<!--
-**helter-skelter254/helter-skelter254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Science Laboratory Technology student
+- 🐍 Learning Python programming
+- 🤖 Interested in Artificial Intelligence
+- 📈 Learning Forex Trading
+- 🎮 Gamer
 
-Here are some ideas to get you started:
+## Currently Learning
+- Git and GitHub
+- Python
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for 2026
+- Improve my programming skills
+- Build projects on GitHub
+- Learn software development workflows
+
+## Connect With Me
+Welcome to my GitHub profile
