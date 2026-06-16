@@ -18,4 +18,4 @@
 - Learn software development workflows
 
 ## Connect With Me
-Welcome to my GitHub profile
+njugushjohn330@gmail.com
