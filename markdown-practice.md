@@ -33,6 +33,6 @@ def hello_biology():
 
 
 ## About Me
-Hello! I am currently expanding my skill set to include practical tech and data tools. I am learning how to build clean **documentation**, organizing tasks via *checklists*, and utilizing `Markdown` structures to ensure my work scales well. I want to use these skills to manage data effectively, and you can see my progress in this [helter-skelter 254](https://github.com/helter-skelter254).
+I am currently expanding my skill set to include practical tech and data tools. I am learning how to build clean **documentation**, organizing tasks via *checklists*, and utilizing `Markdown` structures to ensure my work scales well. I want to use these skills to manage data effectively, and you can see my progress in this [helter-skelter 254](https://github.com/helter-skelter254).
 
 > "The digital age has fundamentally transformed biological sciences, making data management and documentation essential skills for modern researchers."
